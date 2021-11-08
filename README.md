@@ -28,7 +28,6 @@ O desafio consiste em criar uma interface interativa para pesquisa e exibiçao d
 - O projeto será realizado em duplas ou trios, se necessário, pois queremos avaliar como vocês se saem trabalhado em equipe, porém o processo de avaliação será feito de maneira individual;
 
 
-
 ## Documentação completa da API:
 
 [PokéApi](https://pokeapi.co/)
