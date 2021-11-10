@@ -31,3 +31,11 @@ O desafio consiste em criar uma interface interativa para pesquisa e exibiçao d
 ## Documentação completa da API:
 
 [PokéApi](https://pokeapi.co/)
+
+## UI do Projeto no Zeplin:
+
+[Zeplin PokéDex](https://zpl.io/V0O53WR)
+
+## Assets para auxiliar no design:
+
+[Link da pasta](https://drive.google.com/drive/folders/18mH7xEBV63Uv2Bq7tV2dQUT_1VuuccMA?usp=sharing)
