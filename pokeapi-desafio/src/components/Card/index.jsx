@@ -5,7 +5,8 @@ export default function CardPokemon(){
     return(
         <S.CardPokemonContainer>
             <S.InfoPokemon>
-                <h2>C</h2>
+                <h2>Pikachu</h2>
+                
             </S.InfoPokemon>
         </S.CardPokemonContainer>
     )

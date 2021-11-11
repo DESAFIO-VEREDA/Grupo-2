@@ -7,7 +7,7 @@ export default function Header() {
         <S.ContainerHeader>
             <S.RedRetangle><span></span></S.RedRetangle>
             <img src={Pokebola} alt="logo do pokemon" />
-            <S.GreyRetangle><span></span></S.GreyRetangle>
+            <S.GreyRetangle><span>a</span></S.GreyRetangle>
         </S.ContainerHeader>
     )
 }
