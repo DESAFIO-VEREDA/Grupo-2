@@ -5,16 +5,8 @@ export default function Header() {
 
     return(
         <S.ContainerHeader>
-            <span></span>
+            <S.RedRetangle><span></span></S.RedRetangle>
             <img src={Pokebola} alt="logo do pokemon" />
-
-
-
-
-            <S.GreyRetangle><span>a</span></S.GreyRetangle>
-
-
-            <S.GreyRetangle><span></span></S.GreyRetangle>
             <S.GreyRetangle><span></span></S.GreyRetangle>
 
         </S.ContainerHeader>
