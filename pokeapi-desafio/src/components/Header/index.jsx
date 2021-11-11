@@ -8,11 +8,13 @@ export default function Header() {
             <span></span>
             <img src={Pokebola} alt="logo do pokemon" />
 
-           <span></span>
+
+
 
             <S.GreyRetangle><span>a</span></S.GreyRetangle>
 
 
+            <S.GreyRetangle><span></span></S.GreyRetangle>
             <S.GreyRetangle><span></span></S.GreyRetangle>
 
         </S.ContainerHeader>

@@ -2,9 +2,10 @@
 import Header from "./components/Header";
 import { Router } from './components/'
 
+
 function App() {
   return (
-    <div className="App">
+    <div>
       <Header />
       <Router />
     </div>
