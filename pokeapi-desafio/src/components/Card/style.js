@@ -7,7 +7,7 @@ height:207px;
 background-color:${(props) => props.color};
 display:flex;
 align-items: center;
-
+border:1px solid red;
 `
 
 export const InfoPokemon = styled.aside`
