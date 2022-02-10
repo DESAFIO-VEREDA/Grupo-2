@@ -34,7 +34,7 @@ O desafio consiste em criar uma interface interativa para pesquisa e exibiçao d
 
 ## UI do Projeto no Zeplin:
 
-[Zeplin PokéDex](https://zpl.io/V0O53WR)
+[Zeplin PokéDex](https://xd.adobe.com/view/a7af24da-99c7-49ff-a2a2-cadf18a6dee3-f2fc/)
 
 ## Assets para auxiliar no design:
 
